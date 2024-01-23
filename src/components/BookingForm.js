@@ -7,7 +7,10 @@ import {
   Button,
 } from "@mui/material";
 import { useNavigate, useLocation } from "react-router-dom";
-import axios from "axios";
+import db from "../assets/db.json"
+// import axios from "axios";
+
+console.log(db)
 
 const BookingForm = () => {
   const navigate = useNavigate();
@@ -27,16 +30,17 @@ const BookingForm = () => {
 
   useEffect(() => {
     // Mock API call using Axios and the submitted form data
-    const apiUrl = "http://localhost:3001/doctors";
+    // const apiUrl = "http://localhost:3001/doctors";
 
-    axios
-      .get(apiUrl)
-      .then((response) => {
-        setDoctorList(response.data);
-      })
-      .catch((error) => {
-        console.error("Error fetching doctors:", error);
-      });
+    // axios
+    //   .get(apiUrl)
+    //   .then((response) => {
+    //     setDoctorList(response.data);
+    //   })
+    //   .catch((error) => {
+    //     console.error("Error fetching doctors:", error);
+    //   });
+    setDoctorList(db.doctors)
   }, [location.state]);
 
   // Update form data when location state changes

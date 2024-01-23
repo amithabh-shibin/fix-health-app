@@ -1,0 +1,22 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "expertise": "Cardiologist",
+      "city": "New York"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Johnson",
+      "expertise": "Dermatologist",
+      "city": "Los Angeles"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Williams",
+      "expertise": "Orthopedic Surgeon",
+      "city": "Chicago"
+    }
+  ]
+}
