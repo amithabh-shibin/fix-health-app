@@ -17,7 +17,7 @@ const Header = ({ darkMode, handleDarkModeToggle }) => {
         <Toolbar>
           <IconButton
             component={Link}
-            to="/"
+            to="/https://amithabh-shibin.github.io/fix-health-app/"
             edge="start"
             color="inherit"
             aria-label="home"
