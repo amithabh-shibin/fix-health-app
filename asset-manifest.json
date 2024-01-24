@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/fix-health-app/static/css/main.2074ae7a.css",
-    "main.js": "/fix-health-app/static/js/main.c3d1bf56.js",
-    "static/js/787.b8da7fc0.chunk.js": "/fix-health-app/static/js/787.b8da7fc0.chunk.js",
-    "static/media/doctor-image.jpeg": "/fix-health-app/static/media/doctor-image.eb20bdcc51b57476056c.jpeg",
-    "static/media/slick.svg": "/fix-health-app/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/fix-health-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/fix-health-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/fix-health-app/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/fix-health-app/index.html",
-    "main.2074ae7a.css.map": "/fix-health-app/static/css/main.2074ae7a.css.map",
-    "main.c3d1bf56.js.map": "/fix-health-app/static/js/main.c3d1bf56.js.map",
-    "787.b8da7fc0.chunk.js.map": "/fix-health-app/static/js/787.b8da7fc0.chunk.js.map"
+    "main.css": "/static/css/main.ec4751af.css",
+    "main.js": "/static/js/main.a54cb9cb.js",
+    "static/js/787.b8da7fc0.chunk.js": "/static/js/787.b8da7fc0.chunk.js",
+    "static/media/doctor-image.jpeg": "/static/media/doctor-image.eb20bdcc51b57476056c.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.ec4751af.css.map": "/static/css/main.ec4751af.css.map",
+    "main.a54cb9cb.js.map": "/static/js/main.a54cb9cb.js.map",
+    "787.b8da7fc0.chunk.js.map": "/static/js/787.b8da7fc0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2074ae7a.css",
-    "static/js/main.c3d1bf56.js"
+    "static/css/main.ec4751af.css",
+    "static/js/main.a54cb9cb.js"
   ]
 }
