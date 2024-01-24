@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fix-health-app/static/css/main.2074ae7a.css",
-    "main.js": "/fix-health-app/static/js/main.023837fa.js",
+    "main.js": "/fix-health-app/static/js/main.102faa70.js",
     "static/js/787.b8da7fc0.chunk.js": "/fix-health-app/static/js/787.b8da7fc0.chunk.js",
     "static/media/doctor-image.jpeg": "/fix-health-app/static/media/doctor-image.eb20bdcc51b57476056c.jpeg",
     "static/media/slick.svg": "/fix-health-app/static/media/slick.2630a3e3eab21c607e21.svg",
@@ -10,11 +10,11 @@
     "static/media/slick.woff": "/fix-health-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/fix-health-app/index.html",
     "main.2074ae7a.css.map": "/fix-health-app/static/css/main.2074ae7a.css.map",
-    "main.023837fa.js.map": "/fix-health-app/static/js/main.023837fa.js.map",
+    "main.102faa70.js.map": "/fix-health-app/static/js/main.102faa70.js.map",
     "787.b8da7fc0.chunk.js.map": "/fix-health-app/static/js/787.b8da7fc0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2074ae7a.css",
-    "static/js/main.023837fa.js"
+    "static/js/main.102faa70.js"
   ]
 }
